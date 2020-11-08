@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b97da8ba-9c37-450c-8878-2836098245b6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YJJR8xew2fHkCle8dtiJKWP8Ph" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ArrayListArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java3.array.ArrayListArray" />
+      <module name="Java 3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java3.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayListArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b97da8ba-9c37-450c-8878-2836098245b6" name="Default Changelist" comment="" />
+      <created>1582654752392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582654752392</updated>
+      <workItem from="1582654757766" duration="2357000" />
+      <workItem from="1582659785398" duration="33000" />
+      <workItem from="1583353808230" duration="15000" />
+      <workItem from="1584972559562" duration="58000" />
+      <workItem from="1584972905018" duration="603000" />
+      <workItem from="1584976502531" duration="653000" />
+      <workItem from="1589352228527" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="808" y="429" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584981983118">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="808" y="429" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-1920.489.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1584981983118" />
+    <state x="739" y="281" key="FileChooserDialogImpl" timestamp="1582657121485">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="739" y="281" key="FileChooserDialogImpl/-1920.487.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1582657121485" />
+    <state width="1877" height="236" key="GridCell.Tab.0.bottom" timestamp="1582657124630">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="236" key="GridCell.Tab.0.bottom/-1920.487.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1582657124630" />
+    <state width="1877" height="236" key="GridCell.Tab.0.center" timestamp="1582657124630">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="236" key="GridCell.Tab.0.center/-1920.487.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1582657124630" />
+    <state width="1877" height="236" key="GridCell.Tab.0.left" timestamp="1582657124630">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="236" key="GridCell.Tab.0.left/-1920.487.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1582657124630" />
+    <state width="1877" height="236" key="GridCell.Tab.0.right" timestamp="1582657124630">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="236" key="GridCell.Tab.0.right/-1920.487.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1582657124630" />
+    <state x="342" y="160" key="new project wizard" timestamp="1582657123006">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="342" y="160" key="new project wizard/-1920.487.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1582657123006" />
+  </component>
+</project>
